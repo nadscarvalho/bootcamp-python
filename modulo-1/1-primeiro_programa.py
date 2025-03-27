@@ -1,0 +1,1 @@
+print("Olá, bem-vind@ ao bootcamp Suzano Python!")
