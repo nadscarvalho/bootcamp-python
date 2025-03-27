@@ -72,7 +72,7 @@ Utilizada para quando queremos exibir dados na saída padrão (tela).
     sep='separador':
 
     Especifica como os objetos serão separados, se houver mais do que um. O padrão é um espaço em branco. 
---
+---
     end='caractere'
 
     Especifica o caractere que é impresso no final da linha. O padrão é **\n**, uma quebra de linha.

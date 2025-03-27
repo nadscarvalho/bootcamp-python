@@ -26,7 +26,7 @@
 | Menor ou igual | <= |
 
 ## 3. Operadores de Atribuição
-Utilizados para defeniri o valor inicial ou sobrescrever o valor de uma variável.
+Utilizados para definir o valor inicial ou sobrescrever o valor de uma variável.
 
 | Operador                           | Símbolo |
 | ---------------------------------- | ------- |
